@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: dee9360da96574a409ee10b0f76c713c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Garan Fox Demo
+  fontNames:
+  - Garan Fox Demo
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 52700d04bd19d3347b632fb72a7b1d35, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
